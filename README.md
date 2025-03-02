@@ -1,7 +1,7 @@
-# Udacity Data Engineering with AWS Nano Degree
+# Udacity Data Engineering with AWS
 --------------------------
 
-Learn to design data models, build data warehouses and data lakes, automate data pipelines, and manage massive datasets.
+Learn to design data models, build data warehouses and data lakes.
 
 ### Project 1: Data Modeling with Apache Cassandra
 Model event data to create a non-relational database and ETL pipeline for a music streaming app. Learners will define queries and tables for a database built using Apache Cassandra.
